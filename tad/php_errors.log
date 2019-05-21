@@ -1,0 +1,12 @@
+[21-May-2019 16:59:11 Asia/Manila] PHP Fatal error:  Uncaught TADPHP\Exceptions\ConnectionError: Imposible iniciar conexión con dispositivo owenph.dyndns-remote.com in D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php:408
+Stack trace:
+#0 D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php(271): TADPHP\TAD->check_for_connection()
+#1 D:\DESKTOP\UwAmp310\www\owenph\tad\download.php(41): TADPHP\TAD->__call('get_att_log', Array)
+#2 {main}
+  thrown in D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php on line 408
+[21-May-2019 17:03:35 Asia/Manila] PHP Fatal error:  Uncaught TADPHP\Exceptions\ConnectionError: Imposible iniciar conexión con dispositivo 49.150.247.187 in D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php:408
+Stack trace:
+#0 D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php(271): TADPHP\TAD->check_for_connection()
+#1 D:\DESKTOP\UwAmp310\www\owenph\tad\download.php(42): TADPHP\TAD->__call('get_att_log', Array)
+#2 {main}
+  thrown in D:\DESKTOP\UwAmp310\www\owenph\tad\lib\TAD.php on line 408
